@@ -1,6 +1,3 @@
-//CSCI 1913 Fall 2022 Project 3
-//Author: Vedant Vaid
-
 /**
  * This class creates a Gibberisher object through 3 atttributes, A Trie<CharBag> object,
  * an integer to represent segment length, and an integer to respresent the number of letter samples
