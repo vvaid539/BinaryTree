@@ -1,6 +1,3 @@
-//CSCI 1913 Fall 2022 Project 3
-//Author: Vedant Vaid
-
 /**
  * This class creates a Trie class object which has a singlular attribute
  * of a Trienode Object root
