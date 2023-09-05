@@ -1,6 +1,3 @@
-//CSCI 1913 Fall 2022 Project 3
-//Author: Vedant Vaid
-
 /**
  * This class creates an TrieNode object with the attributes
  * of data and a TrieNode array
