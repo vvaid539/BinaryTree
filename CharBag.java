@@ -1,5 +1,4 @@
-//CSCI 1913 Fall 2022 Project 3
-//Author: Vedant Vaid
+
 import java.util.Random;
 /**
  * This class creates a CharBag object that has 3 attributes.
